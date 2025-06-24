@@ -13,7 +13,7 @@ const registerRouter=require('./routes/api/registerRouter')
 const authRouter=require('./routes/authRouter')
 const logoutRouter=require('./routes/logoutRouter')
 
-const port=process.env.PORT || 4000;
+const port=process.env.PORT || 3010;
 app.use(express.json());
 
 //built-in middlewares
