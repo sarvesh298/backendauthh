@@ -1,1 +1,29 @@
-[{"username":"Sudhakar user","password":"$2b$10$YIR6zSK7w2m2QDA5aBeGK./ecsW7WRkcT1gZ0A4qxJd9ZapiSPzHq","roles":{"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlkuQ2hldGFuYSIsImlhdCI6MTc1MDU2MzQwNiwiZXhwIjoxNzUwNjQ5ODA2fQ.E5a2RRZaL_ujNsRhuZHXx-e9-aPvAcQqBa46_MufSvI"},{"username":"Sudhakar editor","password":"$2b$10$YIR6zSK7w2m2QDA5aBeGK./ecsW7WRkcT1gZ0A4qxJd9ZapiSPzHq","roles":{"Editor":1984,"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlkuQ2hldGFuYSIsImlhdCI6MTc1MDU2MzQwNiwiZXhwIjoxNzUwNjQ5ODA2fQ.E5a2RRZaL_ujNsRhuZHXx-e9-aPvAcQqBa46_MufSvI"},{"username":"Sudhakar admin","password":"$2b$10$YIR6zSK7w2m2QDA5aBeGK./ecsW7WRkcT1gZ0A4qxJd9ZapiSPzHq","roles":{"Admin":5150,"Editor":1984,"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlN1ZGhha2FyIGFkbWluIiwiaWF0IjoxNzUwNTY5MjMzLCJleHAiOjE3NTA2NTU2MzN9.xubt1a1pOQ_yJlsgqSRzvsZC-BV1IKmXx_3eNdr14Lg"}]
+[
+    {
+    "username":"JS user",
+    "password":"$2b$10$.eprg9PyVYy5P3PXEpfNy.SaApi0olC7ahgkCvk4LSbVXYpc9oQ5e",
+    "roles":{"User":2001},
+    "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpTIiwiaWF0IjoxNzUwNzU4NjE2LCJleHAiOjE3NTA4NDUwMTZ9.F8kf5dNTWILoKvlp6sEM4_NIyjtEUFEMoAqe5pxBfWg"
+    },
+    {
+        "username":"JS editor",
+        "password":"$2b$10$.eprg9PyVYy5P3PXEpfNy.SaApi0olC7ahgkCvk4LSbVXYpc9oQ5e",
+        "roles":
+        {
+            "User":2001,
+            "Editor":1984
+        },
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpTIiwiaWF0IjoxNzUwNzU4NjE2LCJleHAiOjE3NTA4NDUwMTZ9.F8kf5dNTWILoKvlp6sEM4_NIyjtEUFEMoAqe5pxBfWg"
+    },
+        {
+        "username":"JS admin",
+        "password":"$2b$10$.eprg9PyVYy5P3PXEpfNy.SaApi0olC7ahgkCvk4LSbVXYpc9oQ5e",
+        "roles":
+        {
+            "User":2001,
+            "Editor":1984,
+            "Admin":5150
+        },
+        "refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpTIiwiaWF0IjoxNzUwNzU4NjE2LCJleHAiOjE3NTA4NDUwMTZ9.F8kf5dNTWILoKvlp6sEM4_NIyjtEUFEMoAqe5pxBfWg"
+    }
+]
